@@ -5,10 +5,13 @@ HANDLE = "mohabnamira"
 
 # ---- EDIT THESE (keep each value under ~45 characters) ----
 ROWS = [
-    ("Now", "what you're working on"),
-    ("Prev", "what you did before"),
-    ("Stack", "Python, Git, ..."),
-    ("Highlights", "something you're proud of"),
+    ("Studying", "CS, 2nd year @ Sadat Academy"),
+    ("Now", "Learning Flutter & exploring app dev"),
+    ("Stack", "Flutter, Dart, Python, C++"),
+    ("Interests", "App development"),
+    ("Hobbies", "Chess, reading"),
+    ("Highlights", "Curiosity - AI Research Assistant"),
+    ("", "Cited answers from the live web"),
 ]
 # -----------------------------------------------------------
 
