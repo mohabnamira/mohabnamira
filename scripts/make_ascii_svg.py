@@ -1,3 +1,4 @@
+import os
 from xml.sax.saxutils import escape
 from PIL import Image
 import numpy as np
