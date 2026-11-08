@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 
 RAMP = " .`:-=+*cs#%@"   # bright/sparse -> dark/dense
-COLS = 100
+COLS = int(os.environ.get("COLS", 100))
 CW, LH, FONT = 6.0, 11.0, 10
 COLOR = "#c9d1d9"
 
